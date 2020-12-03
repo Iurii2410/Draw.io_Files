@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T19:51:59.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="byKTYTbYU44DQXKd0sv3" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T19:53:23.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="mGpznY0GLAvWhnz3kfRE" version="13.10.6" type="github">
   <diagram id="eDrRoMh0UzgpGO0whAKW" name="Page-1">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,12 @@
         </mxCell>
         <mxCell id="omMEvubndnK3b0D8EIoA-23" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="680" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omMEvubndnK3b0D8EIoA-30" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Prepare Macaroni and Cheese&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="20" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="omMEvubndnK3b0D8EIoA-31" value="Yuriy Titov" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="40" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
